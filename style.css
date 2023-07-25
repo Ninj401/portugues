@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    padding-left: 50px;
+}
+
+p {
+    padding: 20px;
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+span {
+    color: rgb(150, 123, 2);
+}
+
+span.exce {
+    color: blue;
+}
+
