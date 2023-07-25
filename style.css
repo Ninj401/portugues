@@ -1,9 +1,11 @@
 /*exce= Exceções
 span= Exemplos
-com= Meu comentário.*/ 
+com= Meu comentário.
+ate=atenção*/ 
 
 body {
     font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(211, 211, 211, 0.226);
 }
 
 h1 {
@@ -14,10 +16,16 @@ h2 {
     padding-left: 50px;
 }
 
+strong {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
 p {
     padding: 20px;
     font-weight: lighter;
     font-size: 20px;
+    line-height: 30px;
 }
 
 span {
@@ -28,3 +36,10 @@ span.exce {
     color: blue;
 }
 
+span.com {
+    color: crimson;
+}
+
+span.ate {
+    color: darkslateblue;
+}
