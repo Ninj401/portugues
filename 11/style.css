@@ -8,6 +8,14 @@ body {
     background-color: rgba(211, 211, 211, 0.226);
 }
 
+img {
+    display: block;
+    margin: auto;
+    min-width: 300px;
+    max-width: 600px;
+    padding: 5px;
+}
+
 h1 {
     text-align: center;
 }
@@ -55,12 +63,4 @@ div.video > iframe {
     left: 5%;
     width: 90%;
     height: 90%;
-}
-
-img {
-    display: block;
-    margin: auto;
-    min-width: 300px;
-    max-width: 600px;
-    padding: 5px;
 }
