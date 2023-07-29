@@ -58,9 +58,5 @@ div.video > iframe {
 }
 
 img {
-    display: block;
-    margin: auto;
-    min-width: 300px;
-    max-width: 600px;
-    padding: 5px;
+    width: 100%;
 }
